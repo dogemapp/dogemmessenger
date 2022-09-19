@@ -1,2 +1,2 @@
 # dogemmessenger
-This is a small react native app to demonstrate use of the Linking API for using the mail app (mailto), the phone app (tel), and the sms app (sms)
+This is a small react native app to demonstrate how to send a group mms using Expo sms. This method opens your device's messaging function to send a group message to the contacts you entered into the source code with the message you also entered in the source code.
